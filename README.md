@@ -19,4 +19,4 @@ npm run build
 
 ## Ejecutar el compilado
 
-npm run star
+npm run start
